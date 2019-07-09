@@ -1,0 +1,479 @@
+*{
+	margin: 0px;
+	position: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+
+}
+header{
+	background-color:#87509C;
+	width: 100%;
+	height:400px;
+	float: left;
+	padding:40px 0px;
+}
+.logo{
+	width: 30%;
+	float: left;
+}
+.logo img{
+	    display: block;
+	    max-width: 100%;
+}
+.manu{
+	width: 70%;
+	float: left;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin: 9px 44px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 21px;
+}
+.banner{
+	width: 600px;
+	padding: 160px 270px;
+}
+.banner h2{color: white;
+	     text-align: center;
+	     font-size: 30px;
+
+}
+.btn{
+	display: block;
+	margin: 25px auto;
+	padding: 15px 25px;
+	color: white;
+	background-color: #EB7D4B;
+	font-size:18px;
+	text-transform: uppercase;
+	border:none;
+	box-shadow: 0px 4px 0px 0px orange;
+}
+
+.service{
+	background-color: #17C2A4;
+	width: 100%;
+	height:500px;
+	float: left;
+}
+.service-tittle{
+	width:100%;
+	text-align: center;
+	margin: 35px auto;
+}
+.service-tittle h2{
+	font-size: 35px;
+	padding:20px
+}
+.underline{
+	display: block;
+	margin: 0px auto;
+	width:150px;
+	border-bottom: 3px solid black;
+
+
+}
+.service-tittle p{ font-size: 21px;
+	      text-align: center;
+	      margin: 20px auto;
+
+
+
+}
+
+
+.section-one{
+	width: 25%;
+	text-align: center;
+	float: left;
+}
+.section-one h2{
+	text-align: center;
+	font-size: 23px;
+	margin: 7px auto;
+	color: white;
+}
+.section-one p{
+	color: white;
+     font-size: 18px;
+	text-align: center;
+	margin: 15px auto;
+}
+
+
+/*Team Part Start*/
+.team {
+	width: 100%;
+	height: 560px;
+	float: left;
+	background:#D3D3D3;
+	padding-top: 30px;
+}
+
+.team-text {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+.team-text h1 {
+	text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.team-text p {
+	    padding: 10px;
+}
+
+.team-pic {
+	    padding-top: 35px;
+}
+.pic-one{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+
+.pic-one img {
+	max-width: 85%;
+	padding: 0px 0px 0px 50px;
+	display: block;
+}
+
+.pic-one h1 {
+    text-transform: uppercase;
+    padding-top: 20px;
+    font-size:23px;
+}
+
+.pic-one h2 {
+	text-align: center;
+    color:#87509C;
+    font-size: 18px;
+   } 
+
+    .pic-one p {
+    padding-top: 16px;
+    font-size:12px;
+}
+
+.pic-one ul {
+    list-style: none;
+    padding: 18px;
+
+}
+
+.pic-one ul li {
+	 display: inline;
+    margin: 4px;
+    background-color:white;
+    border-radius:9px;
+    padding: 6px;
+}
+
+.pic-one ul li a {
+	
+}
+/*Team Part End*/
+
+
+
+/*Skill Part Start*/
+.skill {
+	width: 100%;
+	float: left;
+	padding-top: 16px;
+	background-color: white;
+}
+
+.skill-text {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+.skill-text h1 {
+	text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.skill-text p {
+	padding-top: 10px;
+}
+
+.skill-pic {
+	width: 100%;
+	float: left;
+	padding-bottom: 30px;
+}
+
+.skill-one {
+	width: 25%;
+	float: left;
+	padding-top: 20px;
+}
+
+.skill-one img {
+	    margin: 0 auto;
+	    font-size: 29px;
+    display: block;
+}
+
+.skill-one h1 {
+	font-size: 20px;
+	    text-align: center;
+    text-transform: capitalize;
+}
+/*Skill Part End*/
+
+/*Portfolio Part Start*/
+.Portfolio {
+	width: 100%;
+    float: left;
+    background: #FFDD99;
+    padding-top: 25px;
+    padding-bottom: 24px;
+}
+
+.Portfolio-text {
+	width: 600px;
+    margin: 0 auto;
+    text-align: center
+}
+
+.Portfolio-text h1 {
+	font-size: 25px;
+	text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.Portfolio-text p {
+	padding-top: 10px;
+}
+
+.bt {
+	padding: 4px 10px;
+    margin: 10px;
+    background: #C7AC75;
+    color: white;
+    border: none;
+}
+
+.Portfolio-pic {
+	width: 100%;
+	float: left;
+}
+
+.Portfolio-one {
+	width: 50%;
+	float: left;
+}
+
+.Portfolio-one img {
+	padding-bottom: 10px;
+}
+
+.Portfolio-one h1 {
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.Portfolio-pict {
+	width: 100%;
+	float: left;
+}
+
+.Portfolio-two {
+	width: 50%;
+	float: left;
+}
+
+.Portfolio-two img {
+	padding-bottom: 10px;
+}
+
+.Portfolio-two h1 {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.bto {
+	margin: 0 auto;
+    display: block;
+    padding: 16px 25px;
+    background: #30D0C1;
+    color: white;
+    box-shadow: 0px 4px 0px #009688;
+}
+/*Portfolio Part End*/
+
+
+
+/*About Part Start*/
+.about {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	background: #D74680;
+	padding-bottom: 30px;
+}
+
+.about-text {
+	width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+.about-text h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+    color: white;
+}
+
+.about-text p {
+    padding-top: 10px;
+    text-transform: capitalize;
+    color: white;
+}
+
+.about-t {
+	width: 50%;
+	float: left;
+}
+
+.about-slide {
+	width: 100%;
+	float: left;
+}
+
+.about-pic {
+	width: 50%;
+	float: left;
+}
+
+.about-pic img {
+    display: block;
+    max-width: 100%;
+}
+
+.about-pic p {
+    padding: 15px 10px 0px 60px;
+    font-size: 18px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.about-pic h1 {
+	text-transform: uppercase;
+    font-size: 30px;
+    padding-left: 48px;
+    padding-top: 25px;
+    color: white;
+}
+
+.about-pic h2 {
+    padding-left: 52px; 
+    color: #FFEB5A
+}
+
+.about-y {
+	width: 50%;
+	float: left;
+}
+/*About Part End*/
+
+/*from section start*/
+
+.from{
+	width: 100%
+	height:500px;
+	background:#3C5499;
+}
+
+
+.from-one{
+	width:100%;
+	text-align: center;
+	margin: 35px auto;
+}
+.from-one h2{
+	color:white;
+	font-size: 30px;
+	padding:20px;
+}
+.underline{
+	display: block;
+	margin: 0px auto;
+	width:150px;
+	border-bottom: 3px solid black;
+
+
+}
+.from-one p{ font-size: 21px;
+	      text-align: center;
+	      margin: 20px auto;
+	      color: white;
+}
+.folder-box{
+     text-align: center;
+
+}
+
+   .folder{
+	width: 230px;
+      padding: 10px;
+     background-color: #0D3252;
+     border: none;
+}
+
+.folder-one{
+      width:400px;
+      padding: 50px;
+      margin: 7px 0px 0px 0px;
+      background-color: #0D3252;
+      border: none;   
+}
+.folderbtn{
+	text-align:center;
+	font-size: 16px;
+	margin: 13px 500px;
+	padding: 10px 50px;
+	background-color: #30D0C1;
+	border: none;
+	box-shadow:0px 4px 0px 0px  #00997a;
+
+}
+
+
+/*footer section*/
+
+.footer{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background-color:#0D3252;
+}
+nav ul{
+margin: 20px;
+text-align: center;
+}
+
+nav ul li a{
+font-size: 21px;
+}
+
+
